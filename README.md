@@ -5,6 +5,7 @@
 - [Recommmendations](#recommendations)
 
 ### Project Overview
+---
 This data analysis aims to provide insights into
 
 ### Data Source
@@ -36,4 +37,10 @@ The analysis results are summarised as follows:
 ### Limitations
 
 ### References
+
+😄
+
+|Heading1|Heading2|
+|--------|--------|
+|python|sql|
 
