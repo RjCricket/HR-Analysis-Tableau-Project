@@ -9,7 +9,8 @@
 
 ### Project Overview
 ---
-This data analysis aims to provide insights into
+This data analysis project aims to understand the reasons for employee attrition and identify any patterns among those who have left and to assess overall impact of attrition  on the company.
+
 
 ![Dashboard](https://github.com/RjCricket/HR-Analysis-Tableau-Project/assets/118374392/16865fbd-de0a-4959-916e-ba5f2f44c3bf)
 
@@ -57,6 +58,7 @@ The analysis results are summarised as follows:
 6. Sales Department has the maximum attrition rate (20.63%) of all the departments.
 
 ### Recommendations
+---
 We need to conduct surveys and interviews in Sales department to find out the reason for high attrition rate among high job level employees.
 
 
